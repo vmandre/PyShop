@@ -7,4 +7,4 @@ def index(request):
 
 
 def new(request):
-    return HttpResponse("New product")
+    return HttpResponse("New products")
